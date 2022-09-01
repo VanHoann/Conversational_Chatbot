@@ -27,4 +27,9 @@ python app.py
 ![image](https://user-images.githubusercontent.com/30380242/167367734-42c5d252-db9f-481e-8389-f8d5865ce987.png)
 ![image](https://user-images.githubusercontent.com/30380242/167367810-2da8ecd2-d3dd-4dc5-bf2e-6c3bf9c9f09a.png)
 
-
+<br><br>
+**Remarks:**
+* See `Group_Report.pdf` for the details of the project
+* See `Data_Analysis.pdf` for the data analyses (using Spark)
+* See `Run_demo.ipynb` for the demo output if using a Virtual Machine (e.g. AWS)
+* See `Run_demo_colab.ipynb` for how to run it without a VM using Google Colab with Ngrok (recommended)
