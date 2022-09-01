@@ -1,0 +1,61 @@
+{% extends 'base.html' %}{% block css %} {% endblock %} {% block main %}
+
+<link
+rel="stylesheet"
+href="{{url_for('static',filename='css/chatroom_auth.css')}}"
+/>
+
+<div class="section">
+  <div class="container">
+    <form action="" method="post">
+      <div class="field">
+        <label class="label">Username</label>
+        <div class="control has-icons-left">
+          <input
+            class="input"
+            name="username"
+            type="text"
+            placeholder="Enter username"
+          />
+          <span class="icon is-small is-left">
+            <i class="fas fa-user"></i>
+          </span>
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="label">Password</label>
+        <div class="control has-icons-left">
+          <input
+            class="input"
+            name="password1"
+            type="password"
+            placeholder="Enter password"
+          />
+          <span class="icon is-small is-left"><i class="fas fa-lock"></i></span>
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="label">Confirm Password</label>
+        <div class="control has-icons-left">
+          <input
+            class="input"
+            name="password2"
+            type="password"
+            placeholder="Re-enter password"
+          />
+          <span class="icon is-small is-left"><i class="fas fa-lock"></i></span>
+        </div>
+      </div>
+
+      <div class="field last-field">
+        <div class="control">
+          <button class="button is-link">Sign up</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+
+{% endblock %}

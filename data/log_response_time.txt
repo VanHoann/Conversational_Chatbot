@@ -1,0 +1,278 @@
+Log
+
+##### t3a.medium
+
+## Rule-based partial
+
+17426  there's absolutely nothing i can say to make y...  thank you.  that's so sweet of you to say.  th...  0.815933
+22673  yeah. i'm trying to handle myself better. it's...  it's really hard, especially being thrown into...  0.726748
+31297  that's always a weird situation. you're excite...  well it sounds like i will be working really l...  0.719141
+21005  ah, that's rough. that was a very bold move on...  she has been mean and making sure that everyon...  0.718814
+17595  your husband sounds awesome. that's interestin...  he is wonderful and ever though he isn't used ...  0.704576
+model reply after 1.9823 second
+system reply after 1.9960 second
+58.153.132.64 - - [13/May/2022 14:43:17] "POST /chat HTTP/1.1" 200 -
+                                       inp                                                rep      bleu
+38631           why do you need a day off?                               so i can go clubbing  0.696519
+34380       im scared but know i can do it  it will be fine. switching jobs can be scary a...  0.614259
+40174      i don't keep up with that stuff  aren't you interested in economics? the decisi...  0.614259
+20828     i promised so i hope i can do it  good luck.  but besides it being scary it's a ...  0.605692
+25754  oh my, what happened to cause this?  i pooped in my own pants, in front of my friends!  0.593601
+model reply after 2.1320 second
+system reply after 2.1398 second
+58.153.132.64 - - [13/May/2022 14:44:30] "POST /chat HTTP/1.1" 200 -
+/home/ubuntu/miniconda3/lib/python3.9/site-packages/nltk/translate/bleu_score.py:552: UserWarning:
+The hypothesis contains 0 counts of 3-gram overlaps.
+Therefore the BLEU score evaluates to 0, independently of
+how many N-gram overlaps of lower order it contains.
+Consider using lower n-gram order or use SmoothingFunction()
+  warnings.warn(_msg)
+                                  inp                                                rep      bleu
+3656       wow, what is it a big one?  it was an f-4 and at the time the worse one to...  0.434304
+20868     oh cool, what was it about?  it was about going back to school. she had ave...  0.390734
+32441  ohh, what's that for? a party?                               just to relax really  0.378894
+5777   fine, what did happen at last?                       she definitely won that one.  0.378533
+45940      that's great! what was it?         he said money! i couldn't believe my ears!  0.367497
+model reply after 1.7870 second
+system reply after 1.7954 second
+58.153.132.64 - - [13/May/2022 14:45:13] "POST /chat HTTP/1.1" 200 -
+
+## Rule-based
+
+ * Detected change in '/home/ubuntu/projects/project-conversational-chatbot/config.py', reloading
+ * Restarting with stat
+/home/ubuntu/miniconda3/lib/python3.9/site-packages/flask_sqlalchemy/__init__.py:872: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  warnings.warn(FSADeprecationWarning(
+ * Debugger is active!
+ * Debugger PIN: 127-531-924
+/home/ubuntu/miniconda3/lib/python3.9/site-packages/nltk/translate/bleu_score.py:552: UserWarning:
+The hypothesis contains 0 counts of 3-gram overlaps.
+Therefore the BLEU score evaluates to 0, independently of
+how many N-gram overlaps of lower order it contains.
+Consider using lower n-gram order or use SmoothingFunction()
+  warnings.warn(_msg)
+/home/ubuntu/miniconda3/lib/python3.9/site-packages/nltk/translate/bleu_score.py:552: UserWarning:
+The hypothesis contains 0 counts of 2-gram overlaps.
+Therefore the BLEU score evaluates to 0, independently of
+how many N-gram overlaps of lower order it contains.
+Consider using lower n-gram order or use SmoothingFunction()
+  warnings.warn(_msg)
+                                                     inp                                                rep  bleu
+46051              that is so exciting! what did he say?                   he said hernia! i was so stoked!   1.0
+42628                that's so awesome! what did he say?         she said adolf hitler. i was so impressed!   1.0
+7690                                    what did he say?              that he didn't do anything like that.   1.0
+42708  congratulations, thats amazing.  what did he say?              he said josef stalin. i was so proud!   1.0
+36102                                   what did he say?  he told me that he got a big bonus from work. ...   1.0
+model reply after 13.1128 second
+system reply after 13.1238 second
+58.153.132.64 - - [13/May/2022 14:50:14] "POST /chat HTTP/1.1" 200 -
+58.153.132.64 - - [13/May/2022 14:56:36] "GET / HTTP/1.1" 200 -
+58.153.132.64 - - [13/May/2022 14:56:36] "GET /static/bulma-0.9.0/css/bulma.min.css HTTP/1.1" 304 -
+58.153.132.64 - - [13/May/2022 14:56:36] "GET /static/css/chat_with_bots.css HTTP/1.1" 304 -
+58.153.132.64 - - [13/May/2022 14:56:37] "GET /static/js/chat_with_bots.js HTTP/1.1" 304 -
+58.153.132.64 - - [13/May/2022 14:56:38] "GET /static/img/milk_tea.png HTTP/1.1" 304 -
+58.153.132.64 - - [13/May/2022 14:56:38] "GET /static/img/high%20five_0.png HTTP/1.1" 304 -
+                                  inp                                                rep      bleu
+36615  oh no. do you know who did it?  no.. i was at the store.. by the time i made i...  0.811145
+34154  oh no! do you know who did it?             nope.. happened at a store parking lot  0.811145
+30167         do you know who did it?  no idea. it just happened at some point while ...  0.800803
+62234       do you know who stole it?  i don't know but i have some doubts on someone...  0.782112
+16178      do you know who sent them?                             my boyfriend sent them  0.761252
+model reply after 18.0291 second
+system reply after 18.0364 second
+58.153.132.64 - - [13/May/2022 14:57:22] "POST /chat HTTP/1.1" 200 -
+58.153.132.64 - - [13/May/2022 14:58:30] "GET / HTTP/1.1" 200 -
+58.153.132.64 - - [13/May/2022 14:58:30] "GET /static/bulma-0.9.0/css/bulma.min.css HTTP/1.1" 304 -
+58.153.132.64 - - [13/May/2022 14:58:30] "GET /static/css/chat_with_bots.css HTTP/1.1" 304 -
+58.153.132.64 - - [13/May/2022 14:58:31] "GET /static/img/high%20five_0.png HTTP/1.1" 304 -
+58.153.132.64 - - [13/May/2022 14:58:31] "GET /static/js/chat_with_bots.js HTTP/1.1" 304 -
+58.153.132.64 - - [13/May/2022 14:58:31] "GET /static/img/milk_tea.png HTTP/1.1" 304 -
+                                                     inp                                                rep      bleu
+60279  yeah, you're right. i'm not good at confrontat...  yea it will be unfair for the cat too who may ...  0.804695
+23023  i didn't. it's late at night and she's already...  i'm sure once she calms down, she will look on...  0.798204
+23112  i'm sorry, but i don't envy you... i've always...  thank you so much. i hope with time i'll be ok...  0.792436
+60559  yeah, that's kind of true. we can't change the...  that's a great attitude. you will be fine, and...  0.782982
+22518  haha, i doubt anyone would watch me. i'm not t...  i just read that youth was wasted on the young...  0.768462
+model reply after 21.2986 second
+system reply after 21.3090 second
+58.153.132.64 - - [13/May/2022 15:01:55] "POST /chat HTTP/1.1" 200 -
+                           inp                                                rep      bleu
+62822   did you hurt yourself?                                     just my pride.  0.749886
+8909    did you hurt yourself?  i have some scrapes on my hands where i landed...  0.749886
+6656   did you hurt your self?  just a minor bruise on my ankle but my ego was...  0.749886
+17855   did you hurt yourself?  no, but everyone looked at me and i was really...  0.749886
+62751       did it hurt though  yeah it hurt and i was listening to music so i...  0.738638
+model reply after 21.2373 second
+system reply after 21.2445 second
+58.153.132.64 - - [13/May/2022 15:04:21] "POST /chat HTTP/1.1" 200 -
+
+
+## AI
+model reply after 0.4379 second
+system reply after 0.4507 second
+58.153.132.64 - - [13/May/2022 15:11:46] "POST /chat HTTP/1.1" 200 -
+model reply after 0.6301 second
+system reply after 0.6379 second
+58.153.132.64 - - [13/May/2022 15:12:00] "POST /chat HTTP/1.1" 200 -
+model reply after 0.7678 second
+system reply after 0.7745 second
+58.153.132.64 - - [13/May/2022 15:12:19] "POST /chat HTTP/1.1" 200 -
+model reply after 0.8328 second
+system reply after 0.8398 second
+58.153.132.64 - - [13/May/2022 15:12:33] "POST /chat HTTP/1.1" 200 -
+
+
+
+
+##### t2.small
+Cannot install pytorch!
+
+
+
+##### m5.large
+
+## Rule-based partial
+                                                     inp                                                rep      bleu
+12972  i think my brother's children are going to hav...  that is really a shame.  too bad they won't ge...  0.782245
+23112  i'm sorry, but i don't envy you... i've always...  thank you so much. i hope with time i'll be ok...  0.733079
+64201  that's some good advice. i think my main probl...  right, but deep down i'm sure you know that yo...  0.720957
+1854   she was fine but we did go to the er because s...  the vomiting is scary -- so good that y'all go...  0.710489
+3555   yeah but there is always a time and a place an...      i think you have a right to be mad over that.  0.706313
+reply after 1.0818 second
+58.153.132.64 - - [13/May/2022 15:44:38] "POST /chat HTTP/1.1" 200 -
+                                  inp                                                rep      bleu
+17363    what kind of birds are they?  all kinds, wrens, sparrows, blue  jays, wood p...  0.784153
+26739          what are you studying?         counselor education for school psychology.  0.758677
+36719           what are you playing?    i'll be playing tchaikovsky on piano and flute.  0.758677
+49285  oh no! what was he accused of?       he stole a car... and got caught driving it.  0.756372
+44312        what are you happy about  i guess my relationships, my school, all that ...  0.749354
+reply after 0.9470 second
+58.153.132.64 - - [13/May/2022 15:46:06] "POST /chat HTTP/1.1" 200 -
+                                                     inp                                                rep      bleu
+61467  i won a small contest. so, my friend was there...  eh give him a dollar and tell him to enter the...  0.786717
+17405  my mom is doing her best to put me through col...                                your mom is awesome  0.773168
+23025  hahaha. i'm so sorry, but that made me laugh. ...  ha ha.  i'm already laughing about it so no wo...  0.746378
+23093  just found out i'm not getting a promotion at ...  i'm sorry the hear that.  maybe another compan...  0.739838
+16144  i also have a dog that was starved when she wa...  yes! i have some who don't ever get over the a...  0.726394
+reply after 1.0672 second
+58.153.132.64 - - [13/May/2022 15:47:09] "POST /chat HTTP/1.1" 200 -
+
+## Rule-based 
+                                                     inp                                                rep      bleu
+31206  yes, it's been rough.  i have a ton of work to...  might have to bring them to the park and tire ...  0.687433
+25656  i am going wakeboarding this weekend for the 5...  that sounds like a lot of fun! have you been p...  0.686233
+61232  i spent this entire summer thinking i was goin...  oh no, i'm sorry that sounds awful disappointi...  0.681665
+53797  my girlfriend is always worrying if i am as ha...  sounds like she has some underlying issues wit...  0.675822
+26492  i think so. having integrity and good characte...  wow. thanks alot buddy i will remain faithful ...  0.673817
+reply after 11.7503 second
+58.153.132.64 - - [13/May/2022 15:54:46] "POST /chat HTTP/1.1" 200 -
+               inp                                                rep      bleu
+925    who is she?  my cousin, she really wanted me to attend her ...  1.000000
+11660   who is he?  oh neighborhood, lol i thought it said neighbo...  1.000000
+64339   who is it?                            my mom, she is amazing.  0.929009
+40060  who is tom?                                it's a cute kitten.  0.929009
+61379  who was it?  it was just come creep from next door! it was ...  0.888960
+reply after 9.6870 second
+58.153.132.64 - - [13/May/2022 15:56:19] "POST /chat HTTP/1.1" 200 -
+/home/ubuntu/miniconda3/lib/python3.9/site-packages/nltk/translate/bleu_score.py:552: UserWarning:
+The hypothesis contains 0 counts of 3-gram overlaps.
+Therefore the BLEU score evaluates to 0, independently of
+how many N-gram overlaps of lower order it contains.
+Consider using lower n-gram order or use SmoothingFunction()
+  warnings.warn(_msg)
+                                                     inp                                                rep      bleu
+7341   she has! she does have hard days when some don...  i hope she is getting the donations she needs ...  0.851838
+6544   right on! that's cool to hear. everyone likes ...  thank you! she drives an old cadillac and she ...  0.828492
+48291  he sits in his front yard with his shirt off a...              eeeewwww... some people have no shame  0.828492
+16250  typically she doesn't like female dogs but she...  that is really cool.  good on you for welcomin...  0.827017
+43960  nah, wasn't a surprise. we've been long distan...  i hope you can figure out a way to make things...  0.827017
+reply after 8.8229 second
+58.153.132.64 - - [13/May/2022 15:57:16] "POST /chat HTTP/1.1" 200 -
+
+## AI
+
+58.153.132.64 - - [13/May/2022 15:57:16] "POST /chat HTTP/1.1" 200 -
+reply after 0.3452 second
+58.153.132.64 - - [13/May/2022 15:57:47] "POST /chat HTTP/1.1" 200 -
+reply after 1.3864 second
+58.153.132.64 - - [13/May/2022 15:58:14] "POST /chat HTTP/1.1" 200 -
+reply after 0.7679 second
+58.153.132.64 - - [13/May/2022 15:59:01] "POST /chat HTTP/1.1" 200 -
+
+
+
+## Oregon
+##### t3a.medium
+
+## Rule-based partial
+                                                     inp                                                rep      bleu
+26654  mine is was like 200 dollars, not sure if that...  yes $200 is expensive. it is always good to fi...  0.756349
+21025  getting on a flight in a couple of days. kind ...                                where are you going  0.749207
+22673  yeah. i'm trying to handle myself better. it's...  it's really hard, especially being thrown into...  0.716910
+40001  wow. you have already lived much of your life....  my advice don't rush into being a parent. how ...  0.713210
+29384  i have my math final tomorrow and i am so nerv...                            did you at least study?  0.713210
+reply after 1.2920 second
+58.153.132.64 - - [13/May/2022 16:14:54] "POST /chat HTTP/1.1" 200 -
+                                                     inp                                                rep      bleu
+48936         thats nice family should not fight forever  yeah you are correct !! that call made me real...  0.637517
+8102    i wish i was an early riser but it's not for me.  me too, i just have to set a bunch of alarms a...  0.621776
+64409  i know that's smart i should not have gone alone.             it's okay, you got out fine this time!  0.601164
+4857            it was an easy play. i should of had it.  it's okay though, i'm sure you learned from yo...  0.594243
+53290       i love cheesecake, i should do that as well.  it's a crowd pleaser. i love the dips and apps...  0.587433
+reply after 2.0059 second
+58.153.132.64 - - [13/May/2022 16:16:02] "POST /chat HTTP/1.1" 200 -
+                                               inp                                                rep      bleu
+59061  i should do that i don't know why i haven't                           do a barrel roll for me!  0.625680
+17867               don't worry, you will be fine.                                  i am not so sure.  0.578837
+1643   that is cool. have you been to fenway park?  no i want to though.  did you score tickets or...  0.573998
+61414             haha, thank you, i appreciate it  sure, i wish there were more employees like yo...  0.573998
+59412         well you should have why didn't you?  i was still in middle school! i wasn't old eno...  0.569078
+reply after 1.8099 second
+58.153.132.64 - - [13/May/2022 16:17:19] "POST /chat HTTP/1.1" 200 -
+
+## Rule-based
+                                                     inp                                                rep      bleu
+35574  why do you feel that way?  has he enacted any ...     it is mostly because he is a racist misogenist  0.876284
+28777  hmmm...i think once he gets a feel for things ...                     that's sounds like a good plan  0.793091
+6487   i know.. it's sad that we can't choose our par...  i know exactly how you feel.  i have great par...  0.768108
+1269   maybe it will. i'm not sure, but i feel more h...  i hope it works out for you, life is too short...  0.768108
+57821  i totally get that. my sister does the same th...  i know, right? i work very hard, some of my fr...  0.765350
+reply after 16.7352 second
+58.153.132.64 - - [13/May/2022 16:22:26] "POST /chat HTTP/1.1" 200 -
+                                                     inp                                                rep      bleu
+17430  i'm sorry! i didn't mean for that. yeah, some ...  ew!  i might start sleeping with ear plugs in ...  0.874465
+57156  yeah my nephew and i were playing the other da...  oh my. you are brave.  thank goodness they did...  0.864033
+17551  yeah, that's true. he's just a distant relativ...  lids today are so picky about everything. its ...  0.864033
+53599  i can understand that. that's why i said my fa...  that's pretty crazy you could of had your mone...  0.863232
+64085  sort of.. we have a neighbor that's been by he...  i know quite a few people that live their live...  0.859788
+reply after 17.6857 second
+58.153.132.64 - - [13/May/2022 16:23:52] "POST /chat HTTP/1.1" 200 -
+                                    inp                                                rep      bleu
+7331   does she live far away from you?   yea. she lives on the other side of the country.  0.868983
+28202     is she far away from you now?  yea. she's going to grad school across the cou...  0.868983
+51110   do they live far away from you?  they live 800 miles away and it makes it so ha...  0.868983
+6431        i wish i had  more friends.  i'm sorry to hear that. do you think you strug...  0.868983
+48605   we are from northwest louisiana    i visited once there. the people are very nice.  0.865645
+reply after 23.6093 second
+58.153.132.64 - - [13/May/2022 16:25:48] "POST /chat HTTP/1.1" 200 -
+
+
+
+
+## AI
+reply after 1.8099 second
+58.153.132.64 - - [13/May/2022 16:17:19] "POST /chat HTTP/1.1" 200 -
+reply after 1.4076 second
+58.153.132.64 - - [13/May/2022 16:18:21] "POST /chat HTTP/1.1" 200 -
+reply after 0.9078 second
+58.153.132.64 - - [13/May/2022 16:18:37] "POST /chat HTTP/1.1" 200 -
+reply after 0.7477 second
+58.153.132.64 - - [13/May/2022 16:19:02] "POST /chat HTTP/1.1" 200 -
+reply after 0.8685 second
+58.153.132.64 - - [13/May/2022 16:19:32] "POST /chat HTTP/1.1" 200 -
+
+
+
+##### Elastic Inference
+# some steps to success, but due to time constraint, left later try
+# launched instances with EI, found tutorial to run!
